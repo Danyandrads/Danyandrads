@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/TI--Estudante-4B0082?style=flat" />
 </div>
 
-<br> <!-- espaço controlado (antes era muito maior) -->
 
 ### 💡 <samp>Sobre mim</samp>
 
