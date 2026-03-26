@@ -106,4 +106,4 @@ Atualmente, estou em constante evolução na área de tecnologia, com interesse 
   <img align="center" alt="snake" src="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
+<img width="600%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
