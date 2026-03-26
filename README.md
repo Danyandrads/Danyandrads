@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=header"/>
-
 <div align="center">
-  <img align="center" height="150" src="https://github.com/Danyandrads.png" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&section=header&text=Danielly%20Andrade&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
