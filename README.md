@@ -19,17 +19,17 @@
 
 ---
 
-### 💡 Sobre mim
+### 💡 <samp>Sobre mim</samp>
 
-Me chamo Danielly Andrade de Souza, sou de Guarulhos – SP e atualmente curso Sistemas de Informação. Também possuo formação técnica em Informática, com conhecimentos em desenvolvimento web, suporte a sistemas e fundamentos de tecnologia.
+<samp>Me chamo Danielly Andrade de Souza, sou de Guarulhos – SP e atualmente curso Sistemas de Informação. Também possuo formação técnica em Informática, com conhecimentos em desenvolvimento web, suporte a sistemas e fundamentos de tecnologia.
 
 Tenho experiência profissional na área comercial, onde desenvolvi habilidades como atendimento ao cliente, organização de processos e resolução de problemas — competências que contribuem diretamente para atuação na área de TI.
 
-Atualmente, estou em constante evolução na área de tecnologia, com interesse em desenvolvimento de software, sistemas e soluções digitais. 🚀
+Atualmente, estou em constante evolução na área de tecnologia, com interesse em desenvolvimento de software, sistemas e soluções digitais. 🚀</samp>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 <samp>Linguagens e Tecnologias</samp>
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -42,8 +42,8 @@ Atualmente, estou em constante evolução na área de tecnologia, com interesse 
 <br><br>
 
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Danyandrads&hide_border=true&show_icons=true&rank_icon=github&title_color=7B2FF7&icon_color=9D4EDD&text_color=fff&bg_color=0d1117">&nbsp;&nbsp;
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyandrads&layout=compact&hide_border=true&title_color=7B2FF7&text_color=fff&bg_color=0d1117">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danyandrads&hide_border=true&show_icons=true&rank_icon=github&title_color=7B2FF7&icon_color=9D4EDD&text_color=fff&bg_color=0d1117&hide=contribs"/>&nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danyandrads&layout=donut-vertical&hide_border=true&title_color=7B2FF7&text_color=fff&bg_color=0d1117&langs_count=4"/>
 </div>
 <div align="center">
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyandrads&theme=midnight_purple"/>
@@ -51,11 +51,35 @@ Atualmente, estou em constante evolução na área de tecnologia, com interesse 
 
 ---
 
-### 🚀 Projetos
+### 🚀 <samp>Projetos</samp>
 
-🔐 **Sistema Web com Login** — `PHP, HTML, CSS e JavaScript`
-📋 **Sistema de Cadastro de Usuários** — `PHP e JavaScript`
-🌐 **Site Responsivo** — `HTML, CSS e JavaScript`
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%94%90%20Sistema%20Web%20com%20Login-4B0082?style=for-the-badge" /><br><br>
+        <samp>Sistema de autenticação completo com controle de acesso e sessões</samp><br><br>
+        <img src="https://img.shields.io/badge/PHP-7B2FF7?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-4B0082?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-7B2FF7?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JS-4B0082?style=flat&logo=javascript&logoColor=white"/>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%93%8B%20Cadastro%20de%20Usu%C3%A1rios-4B0082?style=for-the-badge" /><br><br>
+        <samp>Sistema completo de cadastro, edição e gerenciamento de usuários</samp><br><br>
+        <img src="https://img.shields.io/badge/PHP-7B2FF7?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JS-4B0082?style=flat&logo=javascript&logoColor=white"/>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Site%20Responsivo-4B0082?style=for-the-badge" /><br><br>
+        <samp>Site moderno e responsivo adaptado para todos os dispositivos</samp><br><br>
+        <img src="https://img.shields.io/badge/HTML-7B2FF7?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-4B0082?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JS-7B2FF7?style=flat&logo=javascript&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -71,9 +95,18 @@ Atualmente, estou em constante evolução na área de tecnologia, com interesse 
 </details>
 
 <div align="center">
-  <samp>💻 Tecnologia | 📚 Aprendizado contínuo | 🚀 Evolução constante</samp><br><br>
-  <img src="https://komarev.com/ghpvc/?username=Danyandrads&style=flat-square&color=7B2FF7" />
+  <samp>💻 Tecnologia | 📚 Aprendizado contínuo | 🚀 Evolução constante</samp>
 </div>
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="snake" src="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake-dark.svg">
