@@ -1,30 +1,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=header"/>
 
-<br>
-
 <div align="center">
   <img align="center" height="150" src="https://github.com/Danyandrads.png" />
 </div>
 
 <div align="center">
-  <b>`Tecnologia da Informação`</b>
-  <samp>
-      <br>
-      Olá! Me chamo <b>Danielly Andrade</b> 👋
-  </samp>
+  <b>`Tecnologia da Informação`</b><br>
+  <samp>Olá! Me chamo <b>Danielly Andrade</b> 👋</samp>
 </div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7B2FF7&width=900&size=22&center=true&lines=Sou+do+Brasil;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Forma%C3%A7%C3%A3o+T%C3%A9cnica+em+Inform%C3%A1tica;Interesse+em+Desenvolvimento+e+TI;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG"/>
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/TI--Estudante-4B0082?style=flat" />
 </div>
-
-<br><br>
 
 ---
 
@@ -50,75 +41,44 @@ Atualmente, estou em constante evolução na área de tecnologia, com interesse 
 
 <br><br>
 
----
-
 <div align="center">
   <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Danyandrads&hide_border=true&show_icons=true&rank_icon=github&title_color=7B2FF7&icon_color=9D4EDD&text_color=fff&bg_color=0d1117">&nbsp;&nbsp;
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyandrads&layout=compact&hide_border=true&title_color=7B2FF7&text_color=fff&bg_color=0d1117">
 </div>
-<br>
 <div align="center">
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyandrads&theme=midnight_purple"/>
 </div>
-
-<br>
 
 ---
 
 ### 🚀 Projetos
 
 🔐 **Sistema Web com Login** — `PHP, HTML, CSS e JavaScript`
-
 📋 **Sistema de Cadastro de Usuários** — `PHP e JavaScript`
-
 🌐 **Site Responsivo** — `HTML, CSS e JavaScript`
 
 ---
 
 <details align="center">
-  <summary>
-    <samp><b>Mais Informações</b></samp>
-  </summary>
-
-<br>
-
-##
+  <summary><samp><b>Mais Informações</b></samp></summary>
 
 <div align="center">
-  <samp><b>Contato:</b></samp>
-  <br><br>
+  <samp><b>Contato:</b></samp><br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:danielly202042@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/danielly-andrade-souza)
 </div>
-
-<br>
 </details>
 
-##
-
-<br>
-
 <div align="center">
-  <p align="center">
-    <samp>💻 Tecnologia | 📚 Aprendizado contínuo | 🚀 Evolução constante</samp>
-  </p>
+  <samp>💻 Tecnologia | 📚 Aprendizado contínuo | 🚀 Evolução constante</samp><br><br>
+  <img src="https://komarev.com/ghpvc/?username=Danyandrads&style=flat-square&color=7B2FF7" />
 </div>
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Danyandrads&style=flat-square&color=7B2FF7" /></p>
-</div>
-
-<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake.svg">
   <img align="center" alt="snake" src="https://raw.githubusercontent.com/Danyandrads/Danyandrads/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=24&section=footer"/>
