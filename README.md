@@ -3,27 +3,27 @@
 </div>
 
 <div align="center">
-  <b>`Tecnologia da Informação`</b><br>
+  <b>Tecnologia da Informação</b><br>
   <samp>Olá! Me chamo <b>Danielly Andrade</b> 👋</samp>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7B2FF7&width=900&size=22&center=true&lines=Sou+do+Brasil;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Forma%C3%A7%C3%A3o+T%C3%A9cnica+em+Inform%C3%A1tica;Interesse+em+Desenvolvimento+e+TI;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7B2FF7&width=900&size=22&center=true&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Forma%C3%A7%C3%A3o+T%C3%A9cnica+em+Inform%C3%A1tica;Interesse+em+Desenvolvimento+e+TI;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TI--Estudante-4B0082?style=flat" />
 </div>
 
----
+<br> <!-- espaço controlado (antes era muito maior) -->
 
 ### 💡 <samp>Sobre mim</samp>
 
-<samp>Me chamo Danielly Andrade de Souza, sou de Guarulhos – SP e atualmente curso Sistemas de Informação. Também possuo formação técnica em Informática, com conhecimentos em desenvolvimento web, suporte a sistemas e fundamentos de tecnologia.
+<samp>Me chamo Danielly Andrade de Souza, sou de Guarulhos – SP e atualmente curso Sistemas de Informação. Também possuo formação técnica em Informática, com conhecimentos em desenvolvimento web, suporte a sistemas e fundamentos de tecnologia.</samp>
 
-Tenho experiência profissional na área comercial, onde desenvolvi habilidades como atendimento ao cliente, organização de processos e resolução de problemas — competências que contribuem diretamente para atuação na área de TI.
+<samp>Tenho experiência profissional na área comercial, onde desenvolvi habilidades como atendimento ao cliente, organização de processos e resolução de problemas — competências que contribuem diretamente para atuação na área de TI.</samp>
 
-Atualmente, estou em constante evolução na área de tecnologia, com interesse em desenvolvimento de software, sistemas e soluções digitais. 🚀</samp>
+<samp>Atualmente, estou em constante evolução na área de tecnologia, com interesse em desenvolvimento de software, sistemas e soluções digitais. 🚀</samp>
 
 ---
 
