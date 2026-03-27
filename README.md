@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/TI--Estudante-4B0082?style=flat" />
 </div>
 
+---
 
 ### 💡 <samp>Sobre mim</samp>
 
@@ -39,9 +40,10 @@
 <br><br>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danyandrads&hide_border=true&show_icons=true&rank_icon=github&title_color=7B2FF7&icon_color=9D4EDD&text_color=fff&bg_color=0d1117&hide=contribs"/>&nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danyandrads&layout=donut-vertical&hide_border=true&title_color=7B2FF7&text_color=fff&bg_color=0d1117&langs_count=4"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danyandrads&hide_border=true&show_icons=true&rank_icon=github&title_color=7B2FF7&icon_color=9D4EDD&text_color=fff&bg_color=0d1117"/>&nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danyandrads&layout=compact&hide_border=true&title_color=7B2FF7&text_color=fff&bg_color=0d1117&langs_count=6"/>
 </div>
+<br>
 <div align="center">
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danyandrads&theme=midnight_purple"/>
 </div>
